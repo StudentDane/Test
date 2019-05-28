@@ -24,5 +24,10 @@ namespace Test
         {
             InitializeComponent();
         }
+
+        void Test(string test)
+        {
+            //
+        }
     }
 }
