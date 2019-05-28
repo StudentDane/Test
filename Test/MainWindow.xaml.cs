@@ -27,7 +27,7 @@ namespace Test
 
         void Test(string test)
         {
-            //
+            test = "neine";
         }
     }
 }
